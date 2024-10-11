@@ -1,0 +1,22 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(134,10,168,1) 24%, rgba(133,16,177,1) 29%, rgba(54,20,127,1) 53%, rgba(31,61,189,1) 75%, rgba(2,4,61,1) 85%);
+}
+
+.Fuente{
+    text-align: center;
+    color: black;
+font-size: 3em;
+}
+
+.choi{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: medium;
+}
+.img{
+    width: 350px;
+}
+.margen{
+    text-align: center;
+}
